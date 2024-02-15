@@ -9,6 +9,7 @@
   "scripts": {
     "dev": "vite",
     "build": "npm test && vite build",
+    "test": "tsc --noEmit"
   },
   "dependencies": {
     "react": "^18.2.0",
